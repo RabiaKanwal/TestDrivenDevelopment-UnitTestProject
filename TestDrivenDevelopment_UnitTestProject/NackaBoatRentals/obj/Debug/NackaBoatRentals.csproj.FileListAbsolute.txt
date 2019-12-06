@@ -1,0 +1,12 @@
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\bin\Debug\NackaBoatRentals.exe.config
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\bin\Debug\NackaBoatRentals.exe
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\bin\Debug\NackaBoatRentals.pdb
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.MainForm.resources
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.Properties.Resources.resources
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.csproj.GenerateResource.cache
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.csproj.CoreCompileInputs.cache
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.exe
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.pdb
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.RentBoatForm.resources
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.BoatReturnForm.resources
+C:\Users\remotedesk25\source\repos\NackaBoatRentals\NackaBoatRentals\obj\Debug\NackaBoatRentals.csprojAssemblyReference.cache
